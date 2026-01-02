@@ -15,12 +15,13 @@ Paralelamente, sou **desenvolvedora frontend e backend**, apaixonada por tecnolo
   <img alt="TypeScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" height="40"/>
   <img alt="Node.js" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40"/>
   <img alt="Express" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="40" height="40"/>
-  <img alt="Zustand" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/zustand.svg" width="40" height="40"/>
+  <img alt="Zustand" src="https://img.shields.io/badge/Zustand-000000?style=for-the-badge&logo=zustand&logoColor=white" width="120"/>
   <img alt="React Native" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40"/>
   <img alt="Postman" src="https://cdn.worldvectorlogo.com/logos/postman.svg" width="40" height="40"/>
   <img alt="Git" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
   <img alt="GitHub" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40"/>
 </p>
+
 
 ---
 
