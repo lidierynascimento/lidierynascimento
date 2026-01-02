@@ -9,24 +9,26 @@ Sou **funcionária pública municipal de Belém**, atuando na **SEZEL – Secret
 Paralelamente, sou **desenvolvedora frontend e backend**, apaixonada por tecnologia, inovação e design.  
 
 💻 **Tecnologias que amo:**  
-- Linguagens: `JavaScript`, `TypeScript`  
-- Frameworks/Bibliotecas: `React`, `React Native`  
-- Cloud & APIs: `Cloudflare Workers`, `AWS Lambda`, `Postman`  
-- Web & CMS: `WordPress`  
-- Design & UX: `Figma`  
-- Desenvolvimento Low/No-Code: `Bubble`, `Flutterflow`, `Draftbit`  
 
-🚀 **Projeto atual:** CTO na **BoraPará**, startup de mobilidade em Belém do Pará.  
+<p>
+  <img alt="JavaScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/>
+  <img alt="TypeScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" height="40"/>
+  <img alt="Node.js" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40"/>
+  <img alt="Express" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="40" height="40"/>
+  <img alt="Zustand" src="https://raw.githubusercontent.com/pmndrs/zustand/main/logo.svg" width="40" height="40"/>
+  <img alt="React Native" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40"/>
+</p>
 
 ---
 
-## 🔹 Experiências
-- 🌐 Desenvolvimento frontend e backend fullstack  
+## 🔹 Especialidades
+- 🚀 Desenvolvimento frontend e backend fullstack  
 - ☁️ Cloud & Serverless: Cloudflare Workers, AWS Lambda  
 - 📊 Integração de APIs e testes via Postman  
 - 🎨 Design de interfaces e protótipos no Figma  
 - 💡 Low-code / No-code: criação de apps e automações em Bubble, Flutterflow e Draftbit  
 - 🏛️ Experiência no setor público, gestão de dados e processos municipais  
+- 📈 **Especialista em criação de pitches, pesquisa de mercado, levantamento de viabilidade financeira e arquitetura técnica de projetos de startups**  
 
 ---
 
@@ -40,11 +42,18 @@ Paralelamente, sou **desenvolvedora frontend e backend**, apaixonada por tecnolo
 
 ## 🔹 Contatos & Redes
 - 📸 Instagram: [@seuInstagram](https://instagram.com/seuInstagram)  
-- 💼 LinkedIn: [Lidyh no LinkedIn](https://www.linkedin.com/in/seulinkedin)  
+- 💼 LinkedIn: [Lidyh no LinkedIn](linkedin.com/in/lidiery-nascimento-0925703a2)
+- 📧 Email: [lidiery.nascimento@alunos.ifsuldeminas.edu.br](mailto:lidiery.nascimento@alunos.ifsuldeminas.edu.br)
 
 ---
 
-## 🔹 Tecnologias & Ferramentas
-```plaintext
-JavaScript | TypeScript | React | React Native | Cloudflare Workers | AWS Lambda | WordPress | Figma | APIs | Postman | Bubble | Flutterflow | Draftbit
+## 🌱 Estou aprendendo e explorando
+- Mais integrações de APIs em apps low-code  
+- Desenvolvimento mobile avançado em React Native  
+- Novas automações cloud e serverless  
+
+---
+
+✨ **Vamos construir coisas incríveis juntos!**
+
 
