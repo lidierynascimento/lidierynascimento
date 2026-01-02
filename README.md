@@ -1,5 +1,7 @@
 # Olá! 👋 Eu sou a Lidyh
 
+🇧🇷 [Versão em Português](README.md) | 🇺🇸 [English Version](README_EN.md)
+
 🌟 **Funcionária Pública Municipal | Desenvolvedora Fullstack | CTO de Startup de Mobilidade**
 
 ---
