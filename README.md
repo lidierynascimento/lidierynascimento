@@ -17,6 +17,9 @@ Paralelamente, sou **desenvolvedora frontend e backend**, apaixonada por tecnolo
   <img alt="Express" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="40" height="40"/>
   <img alt="Zustand" src="https://raw.githubusercontent.com/pmndrs/zustand/main/logo.svg" width="40" height="40"/>
   <img alt="React Native" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40"/>
+  <img alt="Postman" src="https://cdn.worldvectorlogo.com/logos/postman.svg" width="40" height="40"/>
+  <img alt="Git" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
+  <img alt="GitHub" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40"/>
 </p>
 
 ---
