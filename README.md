@@ -57,7 +57,7 @@ Paralelamente, sou **desenvolvedora frontend e backend**, apaixonada por tecnolo
 ---
 
 ## 🔹 Contatos & Redes
-- 📧 Email: [lidiery.nascimento@alunos.ifsuldeminas.edu.br](mailto:lidiery.nascimento@alunos.ifsuldeminas.edu.br)  
+- 📧 Email: [lidiery.nascimento@alunos.ifsuldeminas.edu.br](mailto:contact@lidierynascimento.codes)  
 - 📸 Instagram: [@seuInstagram](https://instagram.com/seuInstagram)  
 - 💼 LinkedIn: [Lidyh no LinkedIn](https://linkedin.com/in/lidiery-nascimento-0925703a2)  
 
