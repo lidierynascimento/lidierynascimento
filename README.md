@@ -1,4 +1,4 @@
-                                                            ## Olá! Seja Bem Vindo!
+<h1 align="center">Seja Bem Vindo!</h1>
 
 <!-- Idiomas -->
 <p align="center">
