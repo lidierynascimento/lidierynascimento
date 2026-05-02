@@ -19,7 +19,7 @@
 
 ## 🔹 Sobre Mim
 Sou **funcionária pública municipal de Belém**, atuando na **SEZEL – Secretaria de Zeladoria**, no **DGD – Departamento de Gestão de Dados**.  
-Paralelamente, sou **desenvolvedora frontend e backend**, apaixonada por tecnologia, inovação e design.  
+Paralelamente, sou **desenvolvedora frontend**, apaixonada por tecnologia, inovação e design.  
 
 🗣️ **Idioma:** Inglês – leitura e compreensão avançadas, conversação intermediária  
 
@@ -28,9 +28,8 @@ Paralelamente, sou **desenvolvedora frontend e backend**, apaixonada por tecnolo
 ---
 
 ## 🔹 Especialidades
-- 🚀 Desenvolvimento frontend e backend fullstack  
-- ☁️ Cloud & Serverless: Cloudflare Workers, AWS Lambda  
-- 📊 Integração de APIs e testes via Postman  
+- 🚀 Desenvolvimento frontend   
+- 📊 Integração de APIs e testes 
 - 🎨 Design de interfaces e protótipos no Figma  
 - 💡 Low-code / No-code: criação de apps e automações em Bubble, Flutterflow e Draftbit  
 - 🏛️ Experiência no setor público, gestão de dados e processos municipais  
