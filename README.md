@@ -13,7 +13,7 @@
 
 
 # Olá! 👋 Eu sou a Lidyh
-🌟 **Funcionária Pública Municipal | Desenvolvedora Fullstack | CTO de Startup de Mobilidade**
+🌟 **Funcionária Pública Municipal | Desenvolvedora Frontend | CTO de Startup de Mobilidade**
 
 ---
 
