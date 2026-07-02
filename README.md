@@ -41,7 +41,8 @@ Paralelamente, sou **desenvolvedora frontend**, apaixonada por tecnologia, inova
 ---
 
 ## 🔹 Especialidades
-- 🚀 Desenvolvimento frontend   
+- 🚀 Desenvolvimento frontend
+- 👨‍💻 Adaptação e implementação de Ferramentas open source
 - 📊 Integração de APIs e testes 
 - 🎨 Design de interfaces e protótipos no Figma  
 - 💡 Low-code / No-code: criação de apps e automações em Bubble, Flutterflow e Draftbit  
