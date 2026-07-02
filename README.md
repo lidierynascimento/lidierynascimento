@@ -13,7 +13,7 @@
 
 
 # Olá! 👋 Eu sou a Lidyh
-🌟 **Funcionária Pública Municipal | Desenvolvedora Frontend |**
+🌟 **Funcionária Pública Municipal | Desenvolvedora Frontend | Web & Mobile | Java Script - React - React Native**
 
 ---
 
